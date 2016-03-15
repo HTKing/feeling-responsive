@@ -14,7 +14,7 @@ title: 'HTKing Blog'
 slogan: '屌丝的逗比之路'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»HTKing« 很多人问HTKing是什么意思,其实就是【David King】.'
+description: '»HTKing« 很多人问HTKing是什么意思,其实就是【King David】.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to htking or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://htking.de/">htking</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://blog.htking.cn/">Feeling Responsive</a>.</p>'
